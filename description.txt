@@ -1,0 +1,10 @@
+Title: Script Shortcuts
+Author: Auios
+Just some function shortcuts
+mf() - moveForward()
+mb() - moveBackward()
+ml() - moveLeft()
+mr() - moveRight()
+cr() - crouch()
+sb() - clientCmdShowBricks()
+cornerJump() - back, left, jump
