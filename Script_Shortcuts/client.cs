@@ -14,4 +14,8 @@ package ScriptShortcuts
 		jump(1);
 	}
 };
+
+if(isFunction(toggleAutoClicking))
+	exec("./autoclick.cs");
+
 activatePackage(ScriptShortcuts);
